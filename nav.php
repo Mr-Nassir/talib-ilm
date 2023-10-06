@@ -32,7 +32,7 @@
 <div class="header-info-left">
 <ul>
 <li><i class="fas fa-phone-alt"></i>+923351258887 | +923012007328</li>
-<li><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" class="__cf_email__" data-cfemail="0960676f66273039496a61687b607d6c7b276a6664">Support@talib-ilm.com</a></li>
+<li><a href="https://mail.google.com/mail/u/0/#inbox" class="__cf_email__" data-cfemail="0960676f66273039496a61687b607d6c7b276a6664">Support@talib-ilm.com</a></li>
 </ul>
 </div>
 <div class="header-info-right">
