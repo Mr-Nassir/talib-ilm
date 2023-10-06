@@ -1,16 +1,7 @@
 <?php
 include("nav.php");
 ?>
-<div class="col-12">
-    <div class="mobile_menu d-block d-lg-none"></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</header>
-<main>
+
 
     <div class="slider-area position-relative">
         <div class="slider-active dot-style">
@@ -32,7 +23,41 @@ include("nav.php");
                 </div>
             </div>
 
-            <div class="single-slider hero-overly01  slider-height slider-bg2 d-flex align-items-center">
+
+            <div class="single-slider hero-overly slider-height slider-bg2 d-flex align-items-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-8 col-sm-10">
+                            <div class="hero-caption">
+                                <h1 data-animation="fadeInUp" data-delay=".2s">Support a causes you care about</h1>
+                                <P data-animation="fadeInUp" data-delay=".4s">Sedac odio aliquet, fringilla odio eget,
+                                    tincidunt nunc. Duis aliquet
+                                    pulvinar ante tempor etiam lacus eros</P>
+                                <a href="#" class="btn hero-btn" data-animation="fadeInUp" data-delay=".8s">Active
+                                    Cases</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="single-slider hero-overly slider-height slider-bg3 d-flex align-items-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-8 col-sm-10">
+                            <div class="hero-caption">
+                                <h1 data-animation="fadeInUp" data-delay=".2s">Support a causes you care about</h1>
+                                <P data-animation="fadeInUp" data-delay=".4s">Sedac odio aliquet, fringilla odio eget,
+                                    tincidunt nunc. Duis aliquet
+                                    pulvinar ante tempor etiam lacus eros</P>
+                                <a href="#" class="btn hero-btn" data-animation="fadeInUp" data-delay=".8s">Active
+                                    Cases</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="single-slider hero-overly01  slider-height slider-bg4 d-flex align-items-center">
                 <div class="container">
                     <div class="row justify-content-end">
                         <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-8 col-sm-10">
@@ -49,7 +74,7 @@ include("nav.php");
                 </div>
             </div>
 
-            <div class="single-slider hero-overly slider-height slider-bg3 d-flex align-items-center">
+            <div class="single-slider hero-overly slider-height slider-bg5 d-flex align-items-center">
                 <div class="container">
                     <div class="row">
                         <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-8 col-sm-10">
