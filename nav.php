@@ -31,8 +31,8 @@
 <div class="d-flex justify-content-between flex-wrap align-items-center">
 <div class="header-info-left">
 <ul>
-<li><i class="fas fa-phone-alt"></i> +10 (78) 564 4568</li>
-<li><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0960676f66273039496a61687b607d6c7b276a6664">[email&#160;protected]</a></li>
+<li><i class="fas fa-phone-alt"></i>+923351258887 | +923012007328</li>
+<li><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" class="__cf_email__" data-cfemail="0960676f66273039496a61687b607d6c7b276a6664">Support@talib-ilm.com</a></li>
 </ul>
 </div>
 <div class="header-info-right">
@@ -54,7 +54,7 @@
 
 <div class="col-xl-2 col-lg-2">
 <div class="logo">
-<a href="index.php"><img src="assets/img/logo/logo.png" alt></a>
+<a href="index.php"><img style="height:80px;" src="assets/img/logo/Untitled-1.jpg" alt></a>
 </div>
 </div>
 <div class="col-xl-10 col-lg-10">
