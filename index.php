@@ -11,12 +11,12 @@ include("nav.php");
                     <div class="row">
                         <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-8 col-sm-10">
                             <div class="hero-caption">
-                                <h1 data-animation="fadeInUp" data-delay=".2s">Support a causes you care about</h1>
+                                <!-- <h1 data-animation="fadeInUp" data-delay=".2s">Support a causes you care about</h1>
                                 <P data-animation="fadeInUp" data-delay=".4s">Sedac odio aliquet, fringilla odio eget,
                                     tincidunt nunc. Duis aliquet
                                     pulvinar ante tempor etiam lacus eros</P>
                                 <a href="#" class="btn hero-btn" data-animation="fadeInUp" data-delay=".8s">Active
-                                    Cases</a>
+                                    Cases</a> -->
                             </div>
                         </div>
                     </div>
@@ -29,12 +29,12 @@ include("nav.php");
                     <div class="row">
                         <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-8 col-sm-10">
                             <div class="hero-caption">
-                                <h1 data-animation="fadeInUp" data-delay=".2s">Support a causes you care about</h1>
+                                <!-- <h1 data-animation="fadeInUp" data-delay=".2s">Support a causes you care about</h1>
                                 <P data-animation="fadeInUp" data-delay=".4s">Sedac odio aliquet, fringilla odio eget,
                                     tincidunt nunc. Duis aliquet
                                     pulvinar ante tempor etiam lacus eros</P>
                                 <a href="#" class="btn hero-btn" data-animation="fadeInUp" data-delay=".8s">Active
-                                    Cases</a>
+                                    Cases</a> -->
                             </div>
                         </div>
                     </div>
@@ -46,12 +46,12 @@ include("nav.php");
                     <div class="row">
                         <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-8 col-sm-10">
                             <div class="hero-caption">
-                                <h1 data-animation="fadeInUp" data-delay=".2s">Support a causes you care about</h1>
+                                <!-- <h1 data-animation="fadeInUp" data-delay=".2s">Support a causes you care about</h1>
                                 <P data-animation="fadeInUp" data-delay=".4s">Sedac odio aliquet, fringilla odio eget,
                                     tincidunt nunc. Duis aliquet
                                     pulvinar ante tempor etiam lacus eros</P>
                                 <a href="#" class="btn hero-btn" data-animation="fadeInUp" data-delay=".8s">Active
-                                    Cases</a>
+                                    Cases</a> -->
                             </div>
                         </div>
                     </div>
@@ -62,12 +62,12 @@ include("nav.php");
                     <div class="row justify-content-end">
                         <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-8 col-sm-10">
                             <div class="hero-caption">
-                                <h1 data-animation="fadeInUp" data-delay=".2s">Support a causes you care about</h1>
+                                <!-- <h1 data-animation="fadeInUp" data-delay=".2s">Support a causes you care about</h1>
                                 <P data-animation="fadeInUp" data-delay=".4s">Sedac odio aliquet, fringilla odio eget,
                                     tincidunt nunc. Duis aliquet
                                     pulvinar ante tempor etiam lacus eros</P>
                                 <a href="#" class="btn hero-btn" data-animation="fadeInUp" data-delay=".8s">Active
-                                    Cases</a>
+                                    Cases</a> -->
                             </div>
                         </div>
                     </div>
@@ -79,12 +79,12 @@ include("nav.php");
                     <div class="row">
                         <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-8 col-sm-10">
                             <div class="hero-caption">
-                                <h1 data-animation="fadeInUp" data-delay=".2s">Support a causes you care about</h1>
+                                <!-- <h1 data-animation="fadeInUp" data-delay=".2s">Support a causes you care about</h1>
                                 <P data-animation="fadeInUp" data-delay=".4s">Sedac odio aliquet, fringilla odio eget,
                                     tincidunt nunc. Duis aliquet
                                     pulvinar ante tempor etiam lacus eros</P>
                                 <a href="#" class="btn hero-btn" data-animation="fadeInUp" data-delay=".8s">Active
-                                    Cases</a>
+                                    Cases</a> -->
                             </div>
                         </div>
                     </div>
