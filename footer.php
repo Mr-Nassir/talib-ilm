@@ -23,12 +23,7 @@
                                     </div>
                                 </div>
 
-                                <div class="footer-social">
-                                    <a href="https://bit.ly/sai4ull"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="#"><i class="fab fa-youtube"></i></a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -41,7 +36,7 @@
                                 <ul>
                                     <li><a href="#">Home</a></li>
                                     <li><a href="#">About</a></li>
-                                    <li><a href="#">Services</a></li>
+                                    <li><a href="#">Programs</a></li>
                                     <li><a href="#">Blog</a></li>
                                     <li><a href="#">Contact</a></li>
                                 </ul>
@@ -51,12 +46,12 @@
                     <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
-                                <h4>Services</h4>
+                                <h4>Programs</h4>
                                 <ul>
-                                    <li><a href="#">Pet Care</a></li>
-                                    <li><a href="#">Pet Treatment</a></li>
-                                    <li><a href="#">Pet Trainingl</a></li>
-                                    <li><a href="#">Hygienic Care</a></li>
+                                    <li><a href="#">Laptop scheme</a></li>
+                                    <li><a href="#">Scholarship Program</a></li>
+                                    <li><a href="#"></a></li>
+                                    <li><a href="#"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -64,8 +59,14 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle mb-10">
-                                <h4>Subscribe newsletter</h4>
-                                <p>Subscribe our newsletter to get updates about our services and offers.</p>
+                                <h4>Social Network</h4>
+                                <div class="footer-social">
+                                    <a href="https://bit.ly/sai4ull"><i class="fab fa-facebook"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fab fa-youtube"></i></a>
+                                </div>
+                                <!-- <p>Subscribe our newsletter to get updates about our services and offers.</p> -->
                             </div>
 
                             <div class="footer-form mb-20">

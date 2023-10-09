@@ -54,7 +54,7 @@
 
 <div class="col-xl-2 col-lg-2">
 <div class="logo d-flex align-items-center">
-<a href="index.php"><img style="height:80px;" src="assets/img/logo/logo1.jpg" alt></a>
+<a href="index.php"><img style="height:80px;" src="assets/img/logo/logo1.png" alt></a>
 
 </div>
 </div>

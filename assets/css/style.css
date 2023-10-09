@@ -43,9 +43,10 @@ p {
 }
 .mb-10 {
   margin-bottom: 10px;
+  width: 210px;
 }
 .mb-20 {
-  margin-top: -25px;
+  margin-top: -100px;
 }
 .mb-30 {
   margin-bottom: 30px;
@@ -1727,10 +1728,10 @@ hr {
   line-height: 2;
 }
 .footer-wrapper .footer-bottom-area .footer-copy-right p i {
-  color: #c30047;
+  color: #009b01;
 }
 .footer-wrapper .footer-bottom-area .footer-copy-right p a {
-  color: #c30047;
+  color: #00ff00;
 }
 .footer-social a {
   color: #e6dad8;
@@ -1753,7 +1754,7 @@ hr {
   -o-transform: rotateY(0deg);
 }
 .footer-social a:hover {
-  color: #c30047;
+  color: #009b01;
 }
 .footer-social a:hover i {
   transform: rotateY(180deg);

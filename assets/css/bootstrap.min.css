@@ -360,7 +360,7 @@ progress {
   }
 }
 .row {
-  --bs-gutter-x: 1.5rem;
+  --bs-gutter-x: 8.5rem;
   --bs-gutter-y: 0;
   display: flex;
   flex-wrap: wrap;
