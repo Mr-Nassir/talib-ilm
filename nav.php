@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Charity | Template</title>
+<title>TALIB E ILM</title>
 <meta name="description" content>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="shortcut icon" type="image/x-icon" href="assets/img/icon/favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/top.png">
 
 <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -32,7 +32,7 @@
 <div class="header-info-left">
 <ul>
 <li><i class="fas fa-phone-alt"></i>+923351258887 | +923012007328</li>
-<li><a href="https://mail.google.com/mail/u/0/#inbox" class="__cf_email__" data-cfemail="0960676f66273039496a61687b607d6c7b276a6664">Support@talib-ilm.com</a></li>
+<li><a href="https://mail.google.com/mail/u/0/#inbox" target="blank" class="__cf_email__" data-cfemail="0960676f66273039496a61687b607d6c7b276a6664">Support@talib-ilm.com</a></li>
 </ul>
 </div>
 <div class="header-info-right">
@@ -53,8 +53,9 @@
 <div class="row align-items-center">
 
 <div class="col-xl-2 col-lg-2">
-<div class="logo">
-<a href="index.php"><img style="height:80px;" src="assets/img/logo/Untitled-1.jpg" alt></a>
+<div class="logo d-flex align-items-center">
+<a href="index.php"><img style="height:80px;" src="assets/img/logo/logo1.jpg" alt></a>
+
 </div>
 </div>
 <div class="col-xl-10 col-lg-10">
@@ -63,7 +64,12 @@
 <nav>
 <ul id="navigation">
 <li><a href="index.php">Home</a></li>
-<li><a href="cases.php">Cases</a></li>
+<li><a href="blog.php">Registration</a>
+<ul class="submenu">
+<li><a href="Registration Laptop.php">Laptop scheme</a></li>
+<li><a href="Registration Scholarship.php">Scholarship Program</a></li>
+<li><a href="elements.php">Elements</a></li>
+</ul>
 <li><a href="about.php">About</a></li>
 <li><a href="blog.php">Blog</a>
 <ul class="submenu">
