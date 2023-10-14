@@ -375,7 +375,7 @@ include("nav.php");
                 <div class="col-xl-7 col-lg-8 col-md-11">
 
                     <div class="section-tittle text-center mb-70">
-                        <h2>We serve for peoples</h2>
+                        <h2>Our Programs</h2>
                         <p>Sedac odio aliquet, fringilla odio eget, tincidunt nunc duis aliquet <br>pulvinar ante.</p>
                     </div>
                 </div>
@@ -384,10 +384,10 @@ include("nav.php");
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services text-center mb-30">
                         <div class="services-icon">
-                            <img src="assets/img/icon/services1.svg" alt>
+                            <img src="assets/img/icon/guide.jpg" alt>
                         </div>
                         <div class="services-cap">
-                            <h5><a href="#">Pure Food & Water</a></h5>
+                            <h5><a href="#">Guide</a></h5>
                             <p>Odio aliquet, fringilla odio eget, tincidunt nunc duis aliquet pulvinar ante employees
                                 and organizations to support.</p>
                         </div>
@@ -396,10 +396,10 @@ include("nav.php");
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services text-center mb-30">
                         <div class="services-icon">
-                            <img src="assets/img/icon/services2.svg" alt>
+                            <img src="assets/img/icon/reg.jpg" alt>
                         </div>
                         <div class="services-cap">
-                            <h5><a href="#">Health & Medicine</a></h5>
+                            <h5><a href="#">Registration</a></h5>
                             <p>Odio aliquet, fringilla odio eget, tincidunt nunc duis aliquet pulvinar ante employees
                                 and organizations to support.</p>
                         </div>
@@ -408,10 +408,10 @@ include("nav.php");
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services text-center mb-30">
                         <div class="services-icon">
-                            <img src="assets/img/icon/services1.svg" alt>
+                            <img src="assets/img/icon/book.jpg" alt>
                         </div>
                         <div class="services-cap">
-                            <h5><a href="#">Education</a></h5>
+                            <h5><a href="#">Slip</a></h5>
                             <p>Odio aliquet, fringilla odio eget, tincidunt nunc duis aliquet pulvinar ante employees
                                 and organizations to support.</p>
                         </div>
@@ -468,7 +468,21 @@ include("nav.php");
                 </div>
             </div>
         </div>
-    </div>
+    </div>  
+    <div class="emailbody">
+<div class="subscribe" >
+	<h2 class="subscribe__title">Let's keep in touch</h2>
+	<p class="subscribe__copy">Subscribe to keep up with fresh news and exciting updates.</p>
+	<div class="form">
+		<input type="email" class="form__email" placeholder="Enter your email address" />
+		<button class="form__button">Send</button>
+	</div>
+	<div class="notice">
+		<input type="checkbox">
+		<span class="notice__copy">I agree to my email address being stored and uses to recieve monthly newsletter.</span>
+	</div>
+</div>
+</div>
 
 </main>
 <?php

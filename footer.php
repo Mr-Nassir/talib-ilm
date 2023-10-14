@@ -1,62 +1,58 @@
 </main>
-<footer>
-    <div class="footer-wrapper">
-        <div class="footer-area footer-padding">
+<section class="">
+  <!-- Footer -->
+  <footer class="btfooter text-white text-center text-md-start" style="background-color:#003a00;">
+    <!-- Grid container -->
+    <div class="container p-4 ">
+      <!--Grid row-->
+      <div class="row">
+        
+        <!--Grid column-->
+        <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+          
+       <DIV CLASS="d-flex justify-content-center "><img  class="flogo" src="assets/img/logo/top.png" alt></DIV> 
+          <h5 class="text-uppercase text-center">Tablin-e-ilm</h5>
 
-            <div class="container d-flex align-items-center">
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-8">
-                        <div class="single-footer-caption mb-50">
-                            <div class="single-footer-caption mb-20">
+          <p style="color:white;" class="text-center ">
+        ہمارا ٹرسٹ تعلیم تک مساوی رسائی کے قابل بنانے کے لیے وظائف کے طور پر مفت لیپ ٹاپ فراہم کرتا ہے۔ ہم رکاوٹوں کو توڑتے ہیں، طلباء کو بااختیار بناتے ہیں، اور ڈیجیٹل لرننگ کے ذریعےایک روشن مستقبل کو فروغ دیتے ہیں۔ 
+      </p>
+        </div>
+        <!--Grid column-->
 
-                                <div class="footer-logo mb-35">
-                                    <a href="index.php" class="d-flex align-items-center justify-content-center"><img
-                                            class="flogo" src="assets/img/logo/top.png" alt>
-                                            <div class="mb-t"><pre><h4  class="text-white text-nowrap">Tablin-e-ilm</pre></h4></per></div>
-                                    </a>
-                                    
+        <!--Grid column-->
+        <div class="col-lg-3 col-md-6 mb-4 mb-md-0 mt-5 ">
+          <h5 class="text-uppercase mt-4 text-center">Navigation</h5>
 
-                                </div>
+          <ul class="list-unstyled mb-5 text-center" style=" font-family:sans-serif; font-weight:10;">
+            <li> <a href="#!" class="text-white text-decoration-none text-center ">Home</a></li>
+            <li><a href="#!" class="text-white text-decoration-none text-center ">About</a></li>
+            <li><a href="#!" class="text-white text-decoration-none text-center ">Programs</a></li>
+            <li><a href="#!" class="text-white text-decoration-none text-center ">Contact</a></li>
+          </ul>
+        </div>
+        <!--Grid column-->
+       
 
-                                <div class="footer-tittle">
-                                    <div class="footer-pera">
-                                        <p>ہمارا ٹرسٹ تعلیم تک مساوی رسائی کے قابل بنانے کے لیے وظائف کے طور پر مفت لیپ ٹاپ فراہم کرتا ہے۔ ہم رکاوٹوں کو توڑتے ہیں، طلباء کو بااختیار بناتے ہیں، اور ڈیجیٹل لرننگ کے ذریعے ایک روشن مستقبل کو فروغ دیتے ہیں۔.</p>
-                                    </div>
-                                </div>
+        <!--Grid column-->
+        <div class="d-flex  col-lg-3 col-md-6 mb-4 mb-md-0 mt-5 text-center">
+        <div class=" ">
+          <h5 class="text-uppercase mt-4 text-center">Services</h5>
 
-                                
-                            </div>
-                        </div>
-                    </div>
-                <div class="row justify-content-between">
-                    
-                    <div class="offset-xl-1 col-xl-2 col-lg-2 col-md-4 col-sm-6">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>Navigation</h4>
-                                <ul>
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">Programs</a></li>
-                                    <li><a href="#">Blog</a></li>
-                                    <li><a href="#">Contact</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>Programs</h4>
-                                <ul>
-                                    <li><a href="#">Laptop scheme</a></li>
-                                    <li><a href="#">Scholarship Program</a></li>
-                                    <li><a href="#"></a></li>
-                                    <li><a href="#"></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
+          <ul class="list-unstyled mb-5 text-center" style=" font-family:sans-serif; font-weight:10;">
+            <li>
+              <a href="#!" class="text-white text-decoration-none text-center "></a>
+            </li>
+            <li>
+              <a href="#!" class="text-white text-decoration-none text-center ">Scolarship Program</a>
+            </li>
+            <li>
+              <a href="#!" class="text-white text-decoration-none text-center ">Laptop Program</a>
+            </li>
+            <li>
+              <a href="#!" class="text-white text-decoration-none text-center "></a>
+            </li>
+          </ul>
+          <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle mb-10">
                                 <h4>Social Network</h4>
@@ -66,39 +62,29 @@
                                     <a href="#"><i class="fab fa-linkedin-in"></i></a>
                                     <a href="#"><i class="fab fa-youtube"></i></a>
                                 </div>
-                                <!-- <p>Subscribe our newsletter to get updates about our services and offers.</p> -->
+                                
                             </div>
-
-                            <div class="footer-form mb-20">
-                                <div id="mc_embed_signup">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="footer-bottom-area">
-            <div class="container">
-                <div class="footer-border">
-                    <div class="row">
-                        <div class="col-xl-12 ">
-                            <div class="footer-copy-right text-center">
-                                <p>Copyright ©2020 All rights reserved | This website is made with by <a href="https://sitecastles.com"
-                                        target="_blank">Sitecastles</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
-
-<div id="back-top">
-    <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
 </div>
+                            
+                    </div>
+                    </div>
+        </div>
+        <!--Grid column-->
+        
+      </div>
+      <!--Grid row-->
+      
+    </div>
+    <!-- Grid container -->
+
+    <!-- Copyright -->
+    <div class="text-center p-3" style="background-color:#003a00;">
+    <p class="text-white">Copyright ©2020 All rights reserved | This website is made with by <a href="https://sitecastles.com" target="_blank">Sitecastles</a></p>
+     
+    </div>
+    <!-- Copyright -->
+  </footer>
+
 
 
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>

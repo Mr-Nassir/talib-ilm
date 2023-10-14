@@ -1256,7 +1256,7 @@ hr {
   box-shadow: 0px 8px 20px rgba(255, 55, 123, 0.15);
 }
 .services-area1 .properties:hover .properties-caption h3 {
-  color: #c30047;
+  color: #009b01;
 }
 .services1-active button.slick-arrow {
   position: absolute;
@@ -1279,7 +1279,7 @@ hr {
   transition: all 0.2s ease-out 0s;
 }
 .services1-active button.slick-arrow i:hover {
-  color: #c30047;
+  color: #009b01;
 }
 .services1-active button.slick-prev {
   left: -40px;
@@ -1359,7 +1359,7 @@ hr {
   background: #fff;
 }
 .our-services .single-services:hover h5 a {
-  color: #c30047;
+  color: #009b01;
 }
 .count-down-area .count-down-wrapper {
   background-repeat: no-repeat;
@@ -1566,7 +1566,7 @@ hr {
   }
 }
 .emargency-care .single-emargency .emargency-cap h5 > a:hover {
-  color: #c30047;
+  color: #009b01;
 }
 .emargency-care .single-emargency .emargency-cap p {
   margin-bottom: 20px;
@@ -1663,7 +1663,7 @@ hr {
   text-decoration: underline;
 }
 .footer-wrapper .footer-area .footer-tittle ul li span {
-  color: red;
+  color: #009b01;
 }
 .footer-wrapper .footer-area .footer-tittle p {
   color: #e6dad8;
@@ -1782,7 +1782,7 @@ hr {
 }
 .blog_area a:hover,
 .blog_area a :hover {
-  background: -webkit-linear-gradient(131deg, #c30047 0%, #c30047 99%);
+  background: -webkit-linear-gradient(131deg, #009b01 0%, #009b01 99%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-decoration: none;
@@ -1807,7 +1807,7 @@ hr {
   color: #080808;
 }
 .blog_details a:hover {
-  color: #c30047;
+  color: #009b01;
 }
 .blog_details h2 {
   font-size: 18px;
@@ -2022,7 +2022,7 @@ hr {
   font-size: 13px;
 }
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #c30047;
+  background: #009b01;
   color: #fff !important;
   -webkit-text-fill-color: #fff;
   text-decoration: none;
@@ -2177,7 +2177,7 @@ hr {
   display: inline-block;
 }
 .single-post-area .blog-author a:hover {
-  color: #c30047;
+  color: #009b01;
 }
 .single-post-area .blog-author p {
   margin-bottom: 0;
@@ -2400,6 +2400,14 @@ hr {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
+}
+.form_email{
+  padding: 20px 25px;
+	border-radius: 5px;
+ 	border: 1px solid #CAD3DB;
+	width: 431px;
+	font-size: 18px;
+	color: #0F121F;
 }
 .img-fluid {
   width: 100%;
@@ -3495,4 +3503,7 @@ del {
 }
 .switch-wrap {
   margin-bottom: 10px;
+}
+.btfooter{
+  background-color: #00ff00;
 }
